@@ -1,0 +1,1 @@
+<annotation><folder>asl_dataset</folder><filename>hand2_a_bot_seg_1_cropped.jpeg</filename><size><width>400</width><height>400</height></size><object><name>a</name><bndbox><xmin>40</xmin><ymin>1</ymin><xmax>352</xmax><ymax>399</ymax></bndbox><center><x>196.0</x><y>200.0</y></center></object></annotation>

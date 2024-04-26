@@ -1,0 +1,1 @@
+<annotation><folder>asl_dataset</folder><filename>hand5_q_bot_seg_1_cropped.jpeg</filename><size><width>400</width><height>400</height></size><object><name>q</name><bndbox><xmin>0</xmin><ymin>25</ymin><xmax>399</xmax><ymax>368</ymax></bndbox><center><x>199.5</x><y>196.5</y></center></object></annotation>

@@ -1,0 +1,1 @@
+<annotation><folder>asl_dataset</folder><filename>hand5_i_dif_seg_1_cropped.jpeg</filename><size><width>400</width><height>400</height></size><object><name>i</name><bndbox><xmin>78</xmin><ymin>1</ymin><xmax>320</xmax><ymax>399</ymax></bndbox><center><x>199.0</x><y>200.0</y></center></object></annotation>
